@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammedhashir1
-- 👀 I’m interested in React JS developer
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in MERN stack developer
+- 🌱 I’m currently working in React js developer
 - 💞️ I’m looking to collaborate on Front-End Development
 - 📫 How to reach me ...
 
